@@ -1,10 +1,14 @@
 {
   "name": "ng-motion",
+  "description": "Build Angular animations with ng-motion — Framer Motion-style declarative animations, spring physics, gestures, presence/exit, layout transitions, scroll, drag-to-reorder, and imperative sequences for Angular.",
   "version": "1.0.0",
   "author": {
     "name": "ScriptType"
   },
   "homepage": "https://ng-motion.dev",
   "repository": "https://github.com/ScriptType/ng-motion-skill",
-  "license": "MIT"
+  "license": "MIT",
+  "skills": [
+    "./skills/ng-motion"
+  ]
 }
