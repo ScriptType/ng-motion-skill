@@ -6,8 +6,12 @@
   "plugins": [
     {
       "name": "ng-motion",
-      "source": ".",
-      "description": "Build Angular animations with ng-motion — Framer Motion-style declarative animations, spring physics, gestures, presence/exit, layout transitions, scroll, drag-to-reorder, and imperative sequences for Angular."
+      "description": "Build Angular animations with ng-motion — Framer Motion-style declarative animations, spring physics, gestures, presence/exit, layout transitions, scroll, drag-to-reorder, and imperative sequences for Angular.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/ng-motion"
+      ]
     }
   ]
 }
