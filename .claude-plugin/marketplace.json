@@ -1,0 +1,18 @@
+{
+  "name": "ng-motion-skill",
+  "owner": {
+    "name": "ScriptType"
+  },
+  "metadata": {
+    "description": "ng-motion Angular animation library skill for Claude Code",
+    "homepage": "https://ng-motion.dev"
+  },
+  "plugins": [
+    {
+      "name": "ng-motion",
+      "version": "1.0.0",
+      "source": "./plugin",
+      "description": "Build Angular animations with ng-motion — Framer Motion-style declarative animations, spring physics, gestures, presence/exit, layout transitions, scroll, drag-to-reorder, and imperative sequences for Angular."
+    }
+  ]
+}
